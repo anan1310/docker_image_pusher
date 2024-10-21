@@ -12,3 +12,4 @@ openim/openim-admin-front:release-v1.8.0
 prom/node-exporter:v1.7.0
 openim/openim-server:release-v3.8
 openim/openim-chat:release-v1.8
+golang:1.21-alpine
